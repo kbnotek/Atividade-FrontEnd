@@ -1,0 +1,15 @@
+/*Centralizar Horizontalmente um Elemento <img>*/
+div {
+    display: flex;
+    justify-content: center;
+}
+img {
+    /* Outras propriedades da imagem, se necessário */
+}
+ /*ou*/
+ div {
+    text-align: center;
+}
+img {
+    /* Outras propriedades da imagem, se necessário */
+}

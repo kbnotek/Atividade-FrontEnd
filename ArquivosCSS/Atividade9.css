@@ -1,0 +1,5 @@
+/*Centralizar Verticalmente um Elemento <div>*/
+div {
+    display: flex;
+    align-items: center;
+}

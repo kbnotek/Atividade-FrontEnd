@@ -1,0 +1,8 @@
+/*Link <a> com Cor de Texto Roxa (#800080) ao Passar o Cursor sobre Ele:*/
+a {
+    color: #800080;
+}
+a:hover {
+    /* Estilos quando o cursor passa sobre o link */
+    /* Por exemplo, alterar a cor de fundo ou o sublinhado */
+}

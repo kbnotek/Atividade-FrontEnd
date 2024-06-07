@@ -1,0 +1,5 @@
+/*Tornar o Texto em um Parágrafo <p> em Negrito:
+*/
+p {
+    font-weight: bold;
+}

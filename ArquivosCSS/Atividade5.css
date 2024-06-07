@@ -1,0 +1,5 @@
+/*Adicionar uma Borda Sólida Preta de 1px a Todos os Elementos de uma Lista Não Ordenada <ul>:
+*/
+ul {
+    border: 1px solid black;
+}
